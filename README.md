@@ -124,7 +124,7 @@ The following image is a real time application GUI in my mobile device.
 	With battery temperature ranging between 26-30 degrees Celsius the display turns to green color and displays a message accordingly that says that the battery is currently stable but continued usage may cause the temperature to rise.
 
  
-
+![WhatsApp Image 2021-02-04 at 8 52 09 AM (3)](https://user-images.githubusercontent.com/74370312/106902527-f1219600-66c6-11eb-978b-95f9f9f3b743.jpeg)
 
 
 
