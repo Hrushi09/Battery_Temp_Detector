@@ -81,6 +81,10 @@ Product Functions
 •	Background color indication.
 
  
+ 
+ ![WhatsApp Image 2021-02-04 at 8 52 09 AM (1)](https://user-images.githubusercontent.com/74370312/106902268-a0aa3880-66c6-11eb-9d96-f20eb4ec3cdf.jpeg)
+ 
+ 
 
 Note: The application displays a message along with the battery temperature for the user. This is a witty comment on the user’s device usage. Also, the background color of the screen changes with respect to the temperature ranges to indicate clearly for those who face trouble reading text at any given time.
 
