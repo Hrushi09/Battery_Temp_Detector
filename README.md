@@ -44,8 +44,13 @@ Table of Contents:
 INTRODUCTION:
 
 The Device battery temperature application is designed to give the temperature of the battery in any device. This application can be used without license and is specific to a device. The application is developed with help of temperature sensors and is accurate considering the external factors as well.
+
+
 Technologies used:
+
 Java, Android Studios, in-built temperature sensor.
+
+
 
 •	SCOPE: The application helps the user to restrict the usage of the device based on the battery temperature. It also allows the user to be careful under extreme weather conditions where the device might behave strangely.
 
@@ -129,11 +134,17 @@ The following image is a real time application GUI in my mobile device.
 
 
 
+
+
+
 	With battery temperature rising above the threshold i.e., above 30 degrees Celsius the screen color changes to red in the background and displays a strict message to the user.
 
 
 ![WhatsApp Image 2021-02-04 at 8 52 09 AM (2)](https://user-images.githubusercontent.com/74370312/106902442-d64f2180-66c6-11eb-96e6-c4bb10817884.jpeg)
  
+
+
+
 
 
 
