@@ -109,6 +109,9 @@ Test Cases:
 	With battery temperature less than 26 degrees Celsius the background color of the screen changes to blue and displays a message accordingly saying that the battery is cool.
 The following image is a real time application GUI in my mobile device.
 
+![WhatsApp Image 2021-02-04 at 8 52 09 AM](https://user-images.githubusercontent.com/74370312/106902044-604aba80-66c6-11eb-8b44-0b5e799d7003.jpeg)
+
+
  
 
 
