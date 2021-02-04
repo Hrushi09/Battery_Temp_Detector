@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="click_to_display_battery_temperature">Click to display battery temperature</string>
+    <string name="todo">TODO</string>
+</resources>
