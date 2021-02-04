@@ -131,6 +131,8 @@ The following image is a real time application GUI in my mobile device.
 
 	With battery temperature rising above the threshold i.e., above 30 degrees Celsius the screen color changes to red in the background and displays a strict message to the user.
 
+
+![WhatsApp Image 2021-02-04 at 8 52 09 AM (2)](https://user-images.githubusercontent.com/74370312/106902442-d64f2180-66c6-11eb-96e6-c4bb10817884.jpeg)
  
 
 
