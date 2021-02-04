@@ -49,6 +49,9 @@ Java, Android Studios, in-built temperature sensor.
 
 •	SCOPE: The application helps the user to restrict the usage of the device based on the battery temperature. It also allows the user to be careful under extreme weather conditions where the device might behave strangely.
 
+![Ta](https://user-images.githubusercontent.com/74370312/106900753-e6660180-66c4-11eb-9019-580b4f22ac7b.jpg)
+
+
 •	PURPOSE: The application allows the user to detect and check their device battery temperature without the need of internet connection. We have come across several incidents where the device explodes due to vulnerable conditions and external factors. To overcome this I designed an application that keeps track of the device battery and can be check with a single click. The intention of this application is to keep the user informed about his device condition by showing the battery temperature.
 
  
